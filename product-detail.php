@@ -70,7 +70,7 @@
 							</li>
 
 							<li>
-								<a href="contact.html">CONTACTO</a>
+								<a href="contact.php">CONTACTO</a>
 							</li>
 						</ul>
 					</div>	
@@ -138,7 +138,7 @@
 				</li>
 
 				<li>
-					<a href="contact.html">CONTACTO</a>
+					<a href="contact.php">CONTACTO</a>
 				</li>
 			</ul>
 		</div>
