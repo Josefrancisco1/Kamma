@@ -55,7 +55,7 @@
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li class="active-menu">
-								<a href="index.html">INICIO</a>
+								<a href="home.php">INICIO</a>
 							</li>
 
 							<li>
@@ -94,7 +94,7 @@
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->		
 			<div class="logo-mobile">
-				<a href="index.html"><img src="images/icons/icon-email.png" alt="IMG-LOGO"></a>
+				<a href="home.php"><img src="images/icons/icon-email.png" alt="IMG-LOGO"></a>
 			</div>
 
 			<!-- Icon header -->
@@ -122,7 +122,7 @@
 		<div class="menu-mobile">
 			<ul class="main-menu-m">
 				<li>
-					<a href="index.html">INICIO</a>
+					<a href="home.php">INICIO</a>
 				</li>
 
 				<li>
@@ -260,7 +260,7 @@
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
-								<a href="index.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+								<a href="home.php" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
 									Saber mais
 								</a>
 							</div>
@@ -284,7 +284,7 @@
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="1600">
-								<a href="index.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+								<a href="home.php" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
 									Saber mais
 								</a>
 							</div>
