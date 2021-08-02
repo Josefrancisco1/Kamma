@@ -54,7 +54,7 @@
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li>
-								<a href="index.html">INICIO</a>
+								<a href="home.php">INICIO</a>
 							</li>
 
 							<li class="active-menu">
@@ -94,7 +94,7 @@
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->		
 			<div class="logo-mobile">
-				<a href="index.html"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
+				<a href="home.php"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
 			</div>
 
 			<!-- Icon header -->
@@ -127,7 +127,7 @@
 
 			<ul class="main-menu">
 				<li>
-					<a href="index.html">INICIO</a>
+					<a href="home.php">INICIO</a>
 				</li>
 
 				<li class="active-menu">
