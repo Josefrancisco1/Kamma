@@ -305,7 +305,7 @@ session_start();
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url(image/prostituta19.jpg);">
+				<div class="item-slick1" style="background-image: url(image/prostituta16.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
@@ -344,15 +344,15 @@ session_start();
 				<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
 					<!-- Block1 -->
 					<div class="block1 wrap-pic-w">
-						<img src="images/banner-01.jpg" alt="IMG-BANNER">
+						<img src="images/fotologin/ini_3.jpg" alt="IMG-BANNER">
 
-						<a href="product.html" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
-								<span class="block1-name ltext-102 trans-04 p-b-8">
+								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
 									Vanessa
 								</span>
 
-								<span class="block1-info stext-102 trans-04">
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
 									AOA 100.000,00
 								</span>
 							</div>
@@ -369,15 +369,15 @@ session_start();
 				<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
 					<!-- Block1 -->
 					<div class="block1 wrap-pic-w">
-						<img src="images/banner-02.jpg" alt="IMG-BANNER">
+						<img src="images/fotologin/ini_1.jpg" alt="IMG-BANNER">
 
-						<a href="product.html" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
-								<span class="block1-name ltext-102 trans-04 p-b-8">
+								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
 									Suzana
 								</span>
 
-								<span class="block1-info stext-102 trans-04">
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
 									AOA 85.000,00
 								</span>
 							</div>
@@ -394,21 +394,21 @@ session_start();
 				<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
 					<!-- Block1 -->
 					<div class="block1 wrap-pic-w">
-						<img src="images/banner-03.jpg" alt="IMG-BANNER">
+						<img src="images/fotologin/ini_2.jpg" alt="IMG-BANNER">
 
-						<a href="product.html" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
-								<span class="block1-name ltext-102 trans-04 p-b-8">
+								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
 									Rebaca
 								</span>
 
-								<span class="block1-info stext-102 trans-04">
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
 									AOA 700.000,00
 								</span>
 							</div>
 
 							<div class="block1-txt-child2 p-b-4 trans-05">
-								<div class="block1-link stext-101 cl0 trans-09">
+								<div class="block1-link stext-101 cl0 trans-09" >
 									Alugar
 								</div>
 							</div>
