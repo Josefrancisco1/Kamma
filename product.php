@@ -66,7 +66,7 @@
 							</li>
 
 							<li>
-								<a href="about.html">SOBRE</a>
+								<a href="about.php">SOBRE</a>
 							</li>
 
 							<li>
@@ -139,7 +139,7 @@
 				</li>
 
 				<li>
-					<a href="about.html">SOBRE</a>
+					<a href="about.php">SOBRE</a>
 				</li>
 
 				<li>
