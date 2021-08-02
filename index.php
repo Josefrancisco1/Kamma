@@ -36,7 +36,7 @@ if(isset($_POST['submitBtnLogin'])) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login</title>
+	<title>KammaKlub</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -71,7 +71,7 @@ if(isset($_POST['submitBtnLogin'])) {
 			<div class="wrap-login100">
 				<form class="login100-form validate-form" method="POST">
 					<span class="login100-form-title p-b-43">
-						Login to continue <br>
+						Login KammaKlub <br>
 					</span>
 					<span>
 						<div class="alert alert-danger" role="alert">
@@ -97,13 +97,13 @@ if(isset($_POST['submitBtnLogin'])) {
 						<div class="contact100-form-checkbox">
 							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
 							<label class="label-checkbox100" for="ckb1">
-								Remember me
+								lembra-me
 							</label>
 						</div>
 
 						<div>
 							<a href="#" class="txt1">
-								Forgot Password?
+								esqueci senha?
 							</a>
 						</div>
 					</div>
@@ -111,28 +111,12 @@ if(isset($_POST['submitBtnLogin'])) {
 
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn" type="submit" name="submitBtnLogin">
-							Login
+							Entrar
 						</button>
-					</div>
-					
-					<div class="text-center p-t-46 p-b-20">
-						<span class="txt2">
-							or sign up using
-						</span>
-					</div>
-
-					<div class="login100-form-social flex-c-m">
-						<a href="#" class="login100-form-social-item flex-c-m bg1 m-r-5">
-							<i class="fa fa-facebook-f" aria-hidden="true"></i>
-						</a>
-
-						<a href="#" class="login100-form-social-item flex-c-m bg2 m-r-5">
-							<i class="fa fa-twitter" aria-hidden="true"></i>
-						</a>
 					</div>
 				</form>
 
-				<div class="login100-more" style="background-image: url('images/bg-01.jpg');">
+				<div class="login100-more" style="background-image: url('images/fotologin/prostituta16.jpg');">
 				</div>
 			</div>
 		</div>

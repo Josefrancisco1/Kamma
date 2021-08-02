@@ -1,0 +1,106 @@
+User_Details Table
+Create the below table in the database and insert some data.
+
+CREATE TABLE IF NOT EXISTS `User_Details` (
+`id` int(11) NOT NULL AUTO_INCREMENT,
+`username` varchar(50) NOT NULL,
+`password` varchar(50) NOT NULL,
+`name` varchar(50) NOT NULL,
+PRIMARY KEY (`id`)
+)
+db.php
+Create a PHP file db.php and write the below codes in it. Here in this tutorial, I used MySQL as the database, you can use any other database.
+
+<?php
+try {
+$db = new PDO('mysql:host=localhost;dbname=YOUR_DATABASE_NAME;charset=utf8mb4', 'root', '');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$db->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
+} catch (PDOException $e) {
+echo "Connection failed : ". $e->getMessage();
+}
+?>
+If you want to use PostgreSQL, then you have to change the first line of the above-mentioned code. That is
+
+$db = new PDO('pgsql:host=localhost;dbname=YOUR_DATABASE_NAME;charset=utf8mb4', 'root', '');
+ HTML – Login Form
+This is a simple HTML form, which will take username and password to gain access to the home page. If the details are wrong it will display the appropriate error message.
+
+<form method="post">
+<table class="loginTable">
+<tr>
+<th>ADMIN PANEL LOGIN</th>
+</tr>
+<tr>
+<td>
+<label class="firstLabel">Username:</label>
+<input type="text" name="username" id="username" value="" autocomplete="off" />
+</td>
+</tr>
+<tr>
+<td><label>Password:</label>
+<input type="password" name="password" id="password" value="" autocomplete="off" /></td>
+</tr>
+<tr>
+<td>
+<input type="submit" name="submitBtnLogin" id="submitBtnLogin" value="Login" />
+<span class="loginMsg"><?php echo @$msg;?></span>
+</td>
+</tr>
+</table>
+</form>
+PHP Code
+At the first line, you should include the db.php. If username and password are not blank then a simple query will execute and return the row if any match found. Valid users will be redirected to the home page.
+
+<?php
+session_start();
+include("db.php");
+?>
+<?php
+$msg = "";
+if(isset($_POST['submitBtnLogin'])) {
+$username = trim($_POST['username']);
+$password = trim($_POST['password']);
+if($username != "" && $password != "") {
+try {
+$query = "select * from `user_login` where `username`=:username and `password`=:password";
+$stmt = $db->prepare($query);
+$stmt->bindParam('username', $username, PDO::PARAM_STR);
+$stmt->bindValue('password', $password, PDO::PARAM_STR);
+$stmt->execute();
+$count = $stmt->rowCount();
+$row = $stmt->fetch(PDO::FETCH_ASSOC);
+if($count == 1 && !empty($row)) {
+/******************** Your code ***********************/
+$_SESSION['sess_user_id'] = $row['uid'];
+$_SESSION['sess_user_name'] = $row['username'];
+$_SESSION['sess_name'] = $row['name'];
+} else {
+$msg = "Invalid username and password!";
+}
+} catch (PDOException $e) {
+echo "Error : ".$e->getMessage();
+}
+} else {
+$msg = "Both fields are required!";
+}
+}
+?>
+home.php
+<?php
+session_start();
+if(isset($_SESSION['sess_user_id']) && $_SESSION['sess_user_id'] != "") {
+echo '<h1>Welcome '.$_SESSION['sess_name'].'</h1>';
+echo '<h4><a href="logout.php">Logout</a></h4>';
+} else {
+header('location:index.php');
+}
+?>
+logout.php
+<?php
+session_start();
+$_SESSION['sess_user_id'] = "";
+$_SESSION['sess_username'] = "";
+$_SESSION['sess_name'] = "";
+if(empty($_SESSION['sess_user_id'])) header("location: index.php");
+?>
