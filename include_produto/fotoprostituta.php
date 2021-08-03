@@ -272,7 +272,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-02.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar
 									</a>
 								</div>
@@ -304,7 +304,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-03.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar
 									</a>
 								</div>
@@ -336,7 +336,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-04.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -367,7 +367,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-05.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -398,7 +398,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-06.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -429,7 +429,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-07.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -460,7 +460,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-08.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -491,7 +491,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-09.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -522,7 +522,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-10.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -554,7 +554,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-11.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -585,7 +585,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-12.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -616,7 +616,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-13.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -647,7 +647,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-14.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -678,7 +678,7 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-15.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 										Alugar					</a>
 								</div>
 		
@@ -709,7 +709,8 @@
 								<div class="block2-pic hov-img0">
 									<img src="images/product-16.jpg" alt="IMG-PRODUCT">
 		
-									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+									<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
+                                        <!--Jose chamamento do modal no botão alugar-->
 										Alugar					</a>
 								</div> 
 		
