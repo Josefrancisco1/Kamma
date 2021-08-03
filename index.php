@@ -68,41 +68,41 @@ if(isset($_POST['submitBtnLogin'])) {
 	
 	<div class="limiter">
 		<div class="container-login100">
-			<div class="wrap-login100">
-				<form class="login100-form validate-form" method="POST">
-					<span class="login100-form-title p-b-43">
-						Login KammaKlub <br>
+			<div class="wrap-login100" style="background-color: black;">
+				<form class="login100-form validate-form" method="POST" style="background-color: black;">
+					<span class="login100-form-title p-b-43" style="color: white;">
+						KammaKlub <br>
 					</span>
 					<span>
-						<div class="alert alert-danger" role="alert">
+						<div class="alert alert-danger" role="alert" style="color: red;">
 							<?php echo @$msg;?>
 						</div>
 					</span>
 					
 					
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: andrepedro">
-						<input class="input100" type="text" name="username">
+						<input class="input100" style="color: white;" type="text" name="username">
 						<span class="focus-input100"></span>
-						<span class="label-input100">Username</span>
+						<span class="label-input100" style="color: white;">Username</span>
 					</div>
 					
 					
 					<div class="wrap-input100 validate-input" data-validate="Password is required">
-						<input class="input100" type="password" name="password">
+						<input class="input100" style="color: white;" type="password" name="password">
 						<span class="focus-input100"></span>
-						<span class="label-input100">Palavra Passe</span>
+						<span class="label-input100" style="color: white;">Palavra Passe</span>
 					</div>
 
 					<div class="flex-sb-m w-full p-t-3 p-b-32">
 						<div class="contact100-form-checkbox">
 							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-							<label class="label-checkbox100" for="ckb1">
+							<label class="label-checkbox100" for="ckb1" style="color: white;">
 								lembra-me
 							</label>
 						</div>
 
 						<div>
-							<a href="#" class="txt1">
+							<a href="#" class="txt1" style="color: white;">
 								esqueci senha?
 							</a>
 						</div>
@@ -110,13 +110,13 @@ if(isset($_POST['submitBtnLogin'])) {
 			
 
 					<div class="container-login100-form-btn">
-						<button class="login100-form-btn" type="submit" name="submitBtnLogin">
+						<button class="login100-form-btn" type="submit" name="submitBtnLogin" style="background-color: #D2C77A;color:black">
 							Entrar
 						</button>
 					</div>
 				</form>
 
-				<div class="login100-more" style="background-image: url('images/fotologin/prostituta29.jpg');">
+				<div class="login100-more" style="background-image: url('images/icons/KAMMA.png');">
 				</div>
 			</div>
 		</div>

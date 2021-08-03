@@ -4,7 +4,7 @@ include("include_produto/header.php");
 ?>
 
 	<!-- Title page -->
-	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/bg-02.jpg');">
+	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/ini_2.jpg');">
 		<h2 class="ltext-105 cl0 txt-center">
 			Blog
 		</h2>
@@ -19,8 +19,8 @@ include("include_produto/header.php");
 					<div class="p-r-45 p-r-0-lg">
 						<!-- item blog -->
 						<div class="p-b-63">
-							<a href="blog-detail.php" class="hov-img0 how-pos5-parent">
-								<img src="images/blog-04.jpg" alt="IMG-BLOG">
+							<a href="#" class="hov-img0 how-pos5-parent">
+								<img src="images/buates.jpg" alt="IMG-BLOG">
 
 								<div class="flex-col-c-m size-123 bg9 how-pos5">
 									<span class="ltext-107 cl2 txt-center">
@@ -28,15 +28,15 @@ include("include_produto/header.php");
 									</span>
 
 									<span class="stext-109 cl3 txt-center">
-										Jan 2018
+										Jan 2021
 									</span>
 								</div>
 							</a>
 
 							<div class="p-t-32">
 								<h4 class="p-b-15">
-									<a href="blog-detail.php" class="ltext-108 cl2 hov-cl1 trans-04">
-										8 Inspiring Ways to Wear Dresses in the Winter
+									<a href="#" class="ltext-108 cl2 hov-cl1 trans-04">
+										Novas estações de Buates
 									</a>
 								</h4>
 
@@ -47,49 +47,43 @@ include("include_produto/header.php");
 								<div class="flex-w flex-sb-m p-t-18">
 									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
 										<span>
-											<span class="cl4">By</span> Admin  
+											<span class="cl4">Por</span> Ferreira Gomes  
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											StreetStyle, Fashion, Couple  
+										folha de estilo
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											8 Comments
+											11 Comentarios
 										</span>
 									</span>
-
-									<a href="blog-detail.php" class="stext-101 cl2 hov-cl1 trans-04 m-tb-10">
-										Continue Reading
-
-										<i class="fa fa-long-arrow-right m-l-9"></i>
-									</a>
 								</div>
 							</div>
 						</div>
 
 						<!-- item blog -->
 						<div class="p-b-63">
-							<a href="blog-detail.php" class="hov-img0 how-pos5-parent">
-								<img src="images/blog-05.jpg" alt="IMG-BLOG">
+							<a href="#" class="hov-img0 how-pos5-parent">
+								<img src="images/eventos.jpg" alt="IMG-BLOG">
 
 								<div class="flex-col-c-m size-123 bg9 how-pos5">
 									<span class="ltext-107 cl2 txt-center">
-										18
+										06
 									</span>
 
 									<span class="stext-109 cl3 txt-center">
-										Jan 2018
+										Jul 2020
 									</span>
 								</div>
 							</a>
 
 							<div class="p-t-32">
 								<h4 class="p-b-15">
-									<a href="blog-detail.php" class="ltext-108 cl2 hov-cl1 trans-04">
-										The Great Big List of Men’s Gifts for the Holidays 
+									<a href="#" class="ltext-108 cl2 hov-cl1 trans-04">
+										Realização de eventos
 									</a>
 								</h4>
 
@@ -100,49 +94,43 @@ include("include_produto/header.php");
 								<div class="flex-w flex-sb-m p-t-18">
 									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
 										<span>
-											<span class="cl4">By</span> Admin  
+											<span class="cl4">Por</span> João Nunes 
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											StreetStyle, Fashion, Couple  
+										folha de estilo
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											8 Comments
+											19 Comentarios
 										</span>
 									</span>
-
-									<a href="blog-detail.php" class="stext-101 cl2 hov-cl1 trans-04 m-tb-10">
-										Continue Reading
-
-										<i class="fa fa-long-arrow-right m-l-9"></i>
-									</a>
 								</div>
 							</div>
 						</div>
 
 						<!-- item blog -->
 						<div class="p-b-63">
-							<a href="blog-detail.php" class="hov-img0 how-pos5-parent">
-								<img src="images/blog-06.jpg" alt="IMG-BLOG">
+							<a href="#" class="hov-img0 how-pos5-parent">
+								<img src="images/produto.jpg" alt="IMG-BLOG">
 
 								<div class="flex-col-c-m size-123 bg9 how-pos5">
 									<span class="ltext-107 cl2 txt-center">
-										16
+										23
 									</span>
 
 									<span class="stext-109 cl3 txt-center">
-										Jan 2018
+										Mar 2018
 									</span>
 								</div>
 							</a>
 
 							<div class="p-t-32">
 								<h4 class="p-b-15">
-									<a href="blog-detail.php" class="ltext-108 cl2 hov-cl1 trans-04">
-										5 Winter-to-Spring Fashion Trends to Try Now
+									<a href="#" class="ltext-108 cl2 hov-cl1 trans-04">
+										Promoção dos nossos produtos
 									</a>
 								</h4>
 
@@ -153,25 +141,19 @@ include("include_produto/header.php");
 								<div class="flex-w flex-sb-m p-t-18">
 									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
 										<span>
-											<span class="cl4">By</span> Admin  
+											<span class="cl4">Por</span> Jose Pedro  
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											StreetStyle, Fashion, Couple  
+											folha de estilo
 											<span class="cl12 m-l-4 m-r-6">|</span>
 										</span>
 
 										<span>
-											8 Comments
+											8 Comentarioss
 										</span>
 									</span>
-
-									<a href="blog-detail.php" class="stext-101 cl2 hov-cl1 trans-04 m-tb-10">
-										Continue Reading
-
-										<i class="fa fa-long-arrow-right m-l-9"></i>
-									</a>
 								</div>
 							</div>
 						</div>
@@ -192,7 +174,7 @@ include("include_produto/header.php");
 				<div class="col-md-4 col-lg-3 p-b-80">
 					<div class="side-menu">
 						<div class="bor17 of-hidden pos-relative">
-							<input class="stext-103 cl2 plh4 size-116 p-l-28 p-r-55" type="text" name="search" placeholder="Search">
+							<input class="stext-103 cl2 plh4 size-116 p-l-28 p-r-55" type="text" name="search" placeholder="pesquisar...">
 
 							<button class="flex-c-m size-122 ab-t-r fs-18 cl4 hov-cl1 trans-04">
 								<i class="zmdi zmdi-search"></i>
@@ -201,37 +183,31 @@ include("include_produto/header.php");
 
 						<div class="p-t-55">
 							<h4 class="mtext-112 cl2 p-b-33">
-								Categories
+								Categorias
 							</h4>
 
 							<ul>
 								<li class="bor18">
 									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Fashion
+										Morenas
 									</a>
 								</li>
 
 								<li class="bor18">
 									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Beauty
+										Negras
 									</a>
 								</li>
 
 								<li class="bor18">
 									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Street Style
+										Loiras
 									</a>
 								</li>
 
 								<li class="bor18">
 									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										Life Style
-									</a>
-								</li>
-
-								<li class="bor18">
-									<a href="#" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
-										DIY & Crafts
+										Branca
 									</a>
 								</li>
 							</ul>
@@ -239,54 +215,54 @@ include("include_produto/header.php");
 
 						<div class="p-t-65">
 							<h4 class="mtext-112 cl2 p-b-33">
-								Featured Products
+								Productos extras
 							</h4>
 
 							<ul>
 								<li class="flex-w flex-t p-b-30">
 									<a href="#" class="wrao-pic-w size-214 hov-ovelay1 m-r-20">
-										<img src="images/product-min-01.jpg" alt="PRODUCT">
+										<img src="images/prostituta10.jpg" alt="PRODUCT">
 									</a>
 
 									<div class="size-215 flex-col-t p-t-8">
 										<a href="#" class="stext-116 cl8 hov-cl1 trans-04">
-											White Shirt With Pleat Detail Back
+											REBECA MARTA
 										</a>
 
 										<span class="stext-116 cl6 p-t-20">
-											$19.00
+											AOA 20.000,00
 										</span>
 									</div>
 								</li>
 
 								<li class="flex-w flex-t p-b-30">
 									<a href="#" class="wrao-pic-w size-214 hov-ovelay1 m-r-20">
-										<img src="images/product-min-02.jpg" alt="PRODUCT">
+										<img src="images/prostituta9.jpg" alt="PRODUCT">
 									</a>
 
 									<div class="size-215 flex-col-t p-t-8">
 										<a href="#" class="stext-116 cl8 hov-cl1 trans-04">
-											Converse All Star Hi Black Canvas
+											MARGARIDA JOAQUINA
 										</a>
 
 										<span class="stext-116 cl6 p-t-20">
-											$39.00
+										AOA 15.000,00
 										</span>
 									</div>
 								</li>
 
 								<li class="flex-w flex-t p-b-30">
 									<a href="#" class="wrao-pic-w size-214 hov-ovelay1 m-r-20">
-										<img src="images/product-min-03.jpg" alt="PRODUCT">
+										<img src="images/prostituta12.jpg" alt="PRODUCT">
 									</a>
 
 									<div class="size-215 flex-col-t p-t-8">
 										<a href="#" class="stext-116 cl8 hov-cl1 trans-04">
-											Nixon Porter Leather Watch In Tan
+											ANGELA MENDES
 										</a>
 
 										<span class="stext-116 cl6 p-t-20">
-											$17.00
+											AOA 10.000,00
 										</span>
 									</div>
 								</li>
@@ -295,30 +271,18 @@ include("include_produto/header.php");
 
 						<div class="p-t-55">
 							<h4 class="mtext-112 cl2 p-b-20">
-								Archive
+								Horario
 							</h4>
 
 							<ul>
 								<li class="p-b-7">
 									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
 										<span>
-											July 2018
+											Segunda
 										</span>
 
 										<span>
-											(9)
-										</span>
-									</a>
-								</li>
-
-								<li class="p-b-7">
-									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
-										<span>
-											June 2018
-										</span>
-
-										<span>
-											(39)
+											00h:00 às 22h:00
 										</span>
 									</a>
 								</li>
@@ -326,23 +290,11 @@ include("include_produto/header.php");
 								<li class="p-b-7">
 									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
 										<span>
-											May 2018
+											Terça
 										</span>
 
 										<span>
-											(29)
-										</span>
-									</a>
-								</li>
-
-								<li class="p-b-7">
-									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
-										<span>
-											April  2018
-										</span>
-
-										<span>
-											(35)
+											00h:00 às 22h:00
 										</span>
 									</a>
 								</li>
@@ -350,23 +302,11 @@ include("include_produto/header.php");
 								<li class="p-b-7">
 									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
 										<span>
-											March 2018
+											Quarta
 										</span>
 
 										<span>
-											(22)
-										</span>
-									</a>
-								</li>
-
-								<li class="p-b-7">
-									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
-										<span>
-											February 2018
-										</span>
-
-										<span>
-											(32)
+											00h:00 às 22h:00
 										</span>
 									</a>
 								</li>
@@ -374,11 +314,11 @@ include("include_produto/header.php");
 								<li class="p-b-7">
 									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
 										<span>
-											January 2018
+											Quinta
 										</span>
 
 										<span>
-											(21)
+											00h:00 às 22h:00
 										</span>
 									</a>
 								</li>
@@ -386,11 +326,36 @@ include("include_produto/header.php");
 								<li class="p-b-7">
 									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
 										<span>
-											December 2017
+											Sexta
 										</span>
 
 										<span>
-											(26)
+											00h:00 às 22h:00
+										</span>
+									</a>
+								</li>
+
+
+								<li class="p-b-7">
+									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+										<span>
+											Sábado
+										</span>
+
+										<span>
+											08h:00 às 20h:00
+										</span>
+									</a>
+								</li>
+
+								<li class="p-b-7">
+									<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+										<span>
+											Domingo
+										</span>
+
+										<span>
+											08h:00 às 20h:00
 										</span>
 									</a>
 								</li>
@@ -404,23 +369,23 @@ include("include_produto/header.php");
 
 							<div class="flex-w m-r--5">
 								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Fashion
+									Instagram
 								</a>
 
 								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Lifestyle
+									facebook
 								</a>
 
 								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Denim
+									whatsapp
 								</a>
 
 								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Streetstyle
+									linkdin
 								</a>
 
 								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Crafts
+									snap
 								</a>
 							</div>
 						</div>
