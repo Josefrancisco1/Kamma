@@ -29,7 +29,7 @@ if(isset($_POST['submitBtnLogin'])) {
 			echo "Error : ".$e->getMessage();
 		}
 	} else {
-		$msg = "Both fields are required!";
+		$msg = "Preencha os campos obrigatório!!";
 	}
 }
 ?>
@@ -74,7 +74,8 @@ if(isset($_POST['submitBtnLogin'])) {
 						KammaKlub <br>
 					</span>
 					<span>
-						<div class="alert alert-danger" role="alert" style="color: red;">
+						<div class="alert alert-danger" role="alert" style="color: red; background-color: #D2C77A;">
+						
 							<?php echo @$msg;?>
 						</div>
 					</span>
