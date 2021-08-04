@@ -240,7 +240,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/1-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/12-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
                                 <!--José aqui tens o modal do botão alugar class="js-show-modal1"-->
@@ -272,7 +272,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/2-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/13-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar
@@ -304,7 +304,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/7-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/2-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar
@@ -336,7 +336,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/4-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/3-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -367,7 +367,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/5-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/4-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -398,7 +398,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/6-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/5-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -429,7 +429,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/7-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/6-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -460,7 +460,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/8-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/8-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -491,7 +491,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/9-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/9-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -522,7 +522,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/10-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/10-product.jpeg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -554,7 +554,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/11-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/12-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -585,7 +585,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/1-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/13-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -616,7 +616,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/4-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/4-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -647,7 +647,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/8-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/8-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -678,7 +678,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/3-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/3-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
@@ -709,7 +709,7 @@
 					<!-- Block2 -->
 					<div class="block2">
 						<div class="block2-pic hov-img0">
-							<img src="new photo/9-product.PNG" alt="IMG-PRODUCT">
+							<img src="new photo1/9-product.jpg" alt="IMG-PRODUCT">
 
 							<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
 								Alugar					</a>
