@@ -6,13 +6,13 @@ include("db.php");
 $msg = ""; 
 if(isset($_POST['submitBtnLogin'])) {
 	$email = trim($_POST['email']);
-	$password = trim($_POST['password']);
-	if($email != "" && $password != "") {
+	$senha = trim($_POST['senha']);
+	if($email != "" && $senha != "") {
 		try {
-			$query = "select * from `User_Details` where `email`=:email and `password`=:password";
+			$query = "select * from `User_Details` where `email`=:email and `senha`=:senha";
 			$stmt = $db->prepare($query);
 			$stmt->bindParam('email', $email, PDO::PARAM_STR);
-			$stmt->bindValue('password', $password, PDO::PARAM_STR);
+			$stmt->bindValue('senha', $senha, PDO::PARAM_STR);
 			$stmt->execute();
 			$count = $stmt->rowCount();
 			$row   = $stmt->fetch(PDO::FETCH_ASSOC);
@@ -20,7 +20,7 @@ if(isset($_POST['submitBtnLogin'])) {
 				/******************** Your code ***********************/
 				$_SESSION['sess_user_id']   = $row['id'];
 				$_SESSION['sess_email'] = $row['email'];
-				$_SESSION['sess_name'] = $row['name'];
+				$_SESSION['sess_name'] = $row['nome'];
 				header('location:home.php');
 			} else {
 				$msg = "email e senha incorreta!";
@@ -89,7 +89,7 @@ if(isset($_POST['submitBtnLogin'])) {
 					
 					
 					<div class="wrap-input100 validate-input" data-validate="Password is required">
-						<input class="input100" style="color: white;" type="password" name="password">
+						<input class="input100" style="color: white;" type="password" name="senha">
 						<span class="focus-input100"></span>
 						<span class="label-input100" style="color: white;">Palavra Passe</span>
 					</div>

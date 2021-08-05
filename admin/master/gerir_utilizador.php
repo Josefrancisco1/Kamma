@@ -39,7 +39,7 @@ include_once("../../db.php");
                                             <form class="form-material" method="POST" action="crud/criar.php">
                                                 
                                                 <div class="form-group form-info">
-                                                    <input type="text" name="name" class="form-control">
+                                                    <input type="text" name="nome" class="form-control">                                                                                          
                                                     <span class="form-bar"></span>
                                                     <label class="float-label">Nome do utilizador</label>
                                                 </div>
@@ -54,13 +54,13 @@ include_once("../../db.php");
                                             <label class="float-label">Endereço de E-mail</label>
                                         </div>
                                         <div class="form-group form-info">
-                                            <input type="text" name="password" class="form-control">
+                                            <input type="text" name="senha" class="form-control">
                                             <span class="form-bar"></span>
                                             <label class="float-label">Senha</label>
                                         </div>
 
                                         <div class="card-block">
-                                            <button type="submit" name="enviarcadastro" class="btn waves-effect waves-light btn-primary"><i class="icofont icofont-user-alt-3"></i>Cadastrar</button>
+                                            <button type="submit" name="CadUsuario" class="btn waves-effect waves-light btn-primary"><i class="icofont icofont-user-alt-3"></i>Cadastrar</button>
                                          </div>    
                                     </form>
                                 </div>
@@ -92,34 +92,27 @@ include_once("../../db.php");
                                                 <th>Contacto</th>
                                                 <th>E-mail</th>
                                                 <th>Senha</th>
-                                                <th>editar</th>
-                                                <th>eliminar</th>
+                                                <th>Delete</th>
+                                                <th>Editar</th>
                                             </tr>
                                         </thead>
                                         <tbody>
+                                        <?php 
+                                            
+                                            $listagem = $db->prepare("SELECT * FROM user_details");
+                                            $listagem->execute();
+                                            while($lista = $listagem->fetch(PDO::FETCH_ASSOC)){
+                                            ?>
                                             <tr>
-                                                <th scope="row">1</th>
-                                                <td>Antonio Francisco</td>
-                                                <td>936 826 946</td>
-                                                <td>antonio.j1.francisco@gmail.com</td>
-                                                <td>jose1234@</td>
-                                                <td><i><i class="icofont icofont-eye-alt"></i></i></td>
-                                                <td><i><i class="icofont icofont-eye-alt"></i></i></td>
+                                            <td><?php echo $lista['id']; ?></td>
+                                            <td><?php echo $lista['nome']; ?></td>
+                                            <td><?php echo $lista['email']; ?></td>
+                                            <td><?php echo $lista['contacto']; ?></td>
+                                            <td><?php echo $lista['senha']; ?></td>
+                                            <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16"><path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/> <path fill-rule="evenodd" d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/></svg></td>
                                             </tr>
-                                            <tr>
-                                                <th scope="row">2</th>
-                                                <td>João Pedro</td>
-                                                <td>953 367 263</td>
-                                                <td>joaopedro@gmail.com</td>
-                                                <td>35672jd</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">3</th>
-                                                <td>Fernando Guilherme</td>
-                                                <td>958 382 873</td>
-                                                <td>fernando@gmail.com</td>
-                                                <td>lkjs83673</td>
-                                            </tr>
+                                            <?php }
+                                            ?>
                                         </tbody>
                                     </table>
                                 </div>
