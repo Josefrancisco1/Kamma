@@ -157,7 +157,16 @@
                                 <div class="main-menu-header">
                                     <img class="img-80 img-radius" src="assets/images/avatar-4.jpg" alt="User-Profile-Image">
                                     <div class="user-details">
-                                        <span id="more-details">John Doe</span>
+                                        <span id="more-details">	
+                    <?php 
+					if(isset($_SESSION['sess_user_id']) && $_SESSION['sess_user_id'] != "") {
+						echo $_SESSION['sess_name'];
+						echo "<p><a href='sair.php'>Sair</a></p>";
+					} else { 
+						header('location:index.php');
+					}
+					
+					?></span>
                                     </div>
                                 </div>
                             </div>
