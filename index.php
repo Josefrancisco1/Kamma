@@ -5,13 +5,13 @@ include("db.php");
 <?php
 $msg = ""; 
 if(isset($_POST['submitBtnLogin'])) {
-	$username = trim($_POST['username']);
+	$email = trim($_POST['email']);
 	$password = trim($_POST['password']);
-	if($username != "" && $password != "") {
+	if($email != "" && $password != "") {
 		try {
-			$query = "select * from `User_Details` where `username`=:username and `password`=:password";
+			$query = "select * from `User_Details` where `email`=:email and `password`=:password";
 			$stmt = $db->prepare($query);
-			$stmt->bindParam('username', $username, PDO::PARAM_STR);
+			$stmt->bindParam('email', $email, PDO::PARAM_STR);
 			$stmt->bindValue('password', $password, PDO::PARAM_STR);
 			$stmt->execute();
 			$count = $stmt->rowCount();
@@ -19,11 +19,11 @@ if(isset($_POST['submitBtnLogin'])) {
 			if($count == 1 && !empty($row)) {
 				/******************** Your code ***********************/
 				$_SESSION['sess_user_id']   = $row['id'];
-				$_SESSION['sess_username'] = $row['username'];
+				$_SESSION['sess_email'] = $row['email'];
 				$_SESSION['sess_name'] = $row['name'];
 				header('location:home.php');
 			} else {
-				$msg = "Username e senha incorreta!";
+				$msg = "email e senha incorreta!";
 			}
 		} catch (PDOException $e) {
 			echo "Error : ".$e->getMessage();
@@ -34,7 +34,7 @@ if(isset($_POST['submitBtnLogin'])) {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
 	<title>KammaKlub</title>
 	<meta charset="UTF-8">
@@ -82,9 +82,9 @@ if(isset($_POST['submitBtnLogin'])) {
 					
 					
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: andrepedro">
-						<input class="input100" style="color: white;" type="text" name="username">
+						<input class="input100" style="color: white;" type="email" name="email">
 						<span class="focus-input100"></span>
-						<span class="label-input100" style="color: white;">Username</span>
+						<span class="label-input100" style="color: white;">E-mail</span>
 					</div>
 					
 					
@@ -95,13 +95,8 @@ if(isset($_POST['submitBtnLogin'])) {
 					</div>
 
 					<div class="flex-sb-m w-full p-t-3 p-b-32">
-						<div class="contact100-form-checkbox">
-							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-							<label class="label-checkbox100" for="ckb1" style="color: white;">
-								lembra-me
-							</label>
+						<div class="contact100-form-checkbox" style="background-color: #000;color: #000;">
 						</div>
-
 						<div>
 							<a href="#" class="txt1" style="color: white;">
 								esqueci senha?
