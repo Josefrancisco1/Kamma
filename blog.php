@@ -21,18 +21,7 @@ include("include_produto/header.php");
 						<div class="p-b-63">
 							<a href="#" class="hov-img0 how-pos5-parent">
 								<img src="images/buates.jpg" alt="IMG-BLOG">
-
-								<div class="flex-col-c-m size-123 bg9 how-pos5">
-									<span class="ltext-107 cl2 txt-center">
-										22
-									</span>
-
-									<span class="stext-109 cl3 txt-center">
-										Jan 2021
-									</span>
-								</div>
 							</a>
-
 							<div class="p-t-32">
 								<h4 class="p-b-15">
 									<a href="#" class="ltext-108 cl2 hov-cl1 trans-04">
@@ -43,41 +32,13 @@ include("include_produto/header.php");
 								<p class="stext-117 cl6">
 									Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius
 								</p>
-
-								<div class="flex-w flex-sb-m p-t-18">
-									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
-										<span>
-											<span class="cl4">Por</span> Ferreira Gomes  
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-										folha de estilo
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-											11 Comentarios
-										</span>
-									</span>
-								</div>
 							</div>
 						</div>
 
 						<!-- item blog -->
 						<div class="p-b-63">
 							<a href="#" class="hov-img0 how-pos5-parent">
-								<img src="images/eventos.jpg" alt="IMG-BLOG">
-
-								<div class="flex-col-c-m size-123 bg9 how-pos5">
-									<span class="ltext-107 cl2 txt-center">
-										06
-									</span>
-
-									<span class="stext-109 cl3 txt-center">
-										Jul 2020
-									</span>
-								</div>
+								<img src="images/eventos.jpg" alt="IMG-BLOG">							
 							</a>
 
 							<div class="p-t-32">
@@ -90,24 +51,6 @@ include("include_produto/header.php");
 								<p class="stext-117 cl6">
 									Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius
 								</p>
-
-								<div class="flex-w flex-sb-m p-t-18">
-									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
-										<span>
-											<span class="cl4">Por</span> João Nunes 
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-										folha de estilo
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-											19 Comentarios
-										</span>
-									</span>
-								</div>
 							</div>
 						</div>
 
@@ -115,16 +58,6 @@ include("include_produto/header.php");
 						<div class="p-b-63">
 							<a href="#" class="hov-img0 how-pos5-parent">
 								<img src="images/produto.jpg" alt="IMG-BLOG">
-
-								<div class="flex-col-c-m size-123 bg9 how-pos5">
-									<span class="ltext-107 cl2 txt-center">
-										23
-									</span>
-
-									<span class="stext-109 cl3 txt-center">
-										Mar 2018
-									</span>
-								</div>
 							</a>
 
 							<div class="p-t-32">
@@ -137,24 +70,6 @@ include("include_produto/header.php");
 								<p class="stext-117 cl6">
 									Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius
 								</p>
-
-								<div class="flex-w flex-sb-m p-t-18">
-									<span class="flex-w flex-m stext-111 cl2 p-r-30 m-tb-10">
-										<span>
-											<span class="cl4">Por</span> Jose Pedro  
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-											folha de estilo
-											<span class="cl12 m-l-4 m-r-6">|</span>
-										</span>
-
-										<span>
-											8 Comentarioss
-										</span>
-									</span>
-								</div>
 							</div>
 						</div>
 

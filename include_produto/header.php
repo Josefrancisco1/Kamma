@@ -59,7 +59,7 @@
 							</li>
 
 							<li>
-								<a href="product.php" style="color: orange;">ALUGAR</a>
+								<a href="product.php" style="color: orange;">SERVIÇOS</a>
 							</li>
 
 							<li>
@@ -126,7 +126,7 @@
 				</li>
 
 				<li>
-					<a href="product.php">ALUGAR</a>
+					<a href="product.php">SERVIÇOS</a>
 				</li>
 
 				<li>
