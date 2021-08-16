@@ -125,11 +125,17 @@ include("include_produto/header.php");
 						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
 								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
-									Vanessa
+								 Drika 
+								</span>
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+								   Nacionalidade: Brasileira
 								</span>
 
 								<span class="block1-info stext-102 trans-04" style="color: #fff;">
-									AOA 80.000,00
+								   Valor por hora - AOA 80.000,00
+								</span>
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+									Valor por noite -  AOA 180.000,00
 								</span>
 							</div>
 
@@ -150,18 +156,19 @@ include("include_produto/header.php");
 						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
 								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
-									Suzana
+									Suzi
 								</span>
 
 								<span class="block1-info stext-102 trans-04" style="color: #fff;">
-									AOA 75.000,00
+								   Nacionalidade: Portuguêsa
 								</span>
-							</div>
 
-							<div class="block1-txt-child2 p-b-4 trans-05">
-								<div class="block1-link stext-101 cl0 trans-09">
-								Reserva
-								</div>
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+								   Valor por hora - AOA 80.000,00
+								</span>
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+									Valor por noite -  AOA 180.000,00
+								</span>
 							</div>
 						</a>
 					</div>
@@ -175,11 +182,18 @@ include("include_produto/header.php");
 						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
 								<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #fff;">
-									Rebaca
+									Luana
 								</span>
 
 								<span class="block1-info stext-102 trans-04" style="color: #fff;">
-									AOA 60.000,00
+								   Nacionalidade: Namibiana
+								</span>
+
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+								   Valor por hora - AOA 80.000,00
+								</span>
+								<span class="block1-info stext-102 trans-04" style="color: #fff;">
+									Valor por noite -  AOA 180.000,00
 								</span>
 							</div>
 

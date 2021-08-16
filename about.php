@@ -3,7 +3,7 @@ session_start();
 include("include_produto/header.php");
 ?>
 	<!-- Title page -->
-	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/ini_2.jpg');">
+	<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('image/7.jpg');">
 		<h2 class="ltext-105 cl0 txt-center">
 			Sobre nos
 		</h2>
@@ -16,11 +16,15 @@ include("include_produto/header.php");
 			<div class="row p-b-148">
 				<div class="col-md-7 col-lg-8">
 					<div class="p-t-7 p-r-85 p-r-15-lg p-r-0-md">
+						<br><br>
 						<p class="stext-113 cl6 p-b-26">
 						<h5>
-							O Kamma Klub é uma das mais sofisticadas e elegantes opções de entretenimento nas noites de Luanda, proporcionado
-							aos clientes um clima discreto, requintado de alto nível
-						</h5>
+							   O Kamma Klub é uma das mais sofisticadas e elegantes opções de entretenimento nas noites de Luanda, proporcionado
+							aos clientes um clima discreto, requintado de alto nível. casa noturna com atmosfera refinada e sensual 
+							<br><br>
+							   Venha viver os melhores momentos no Kamma klub aqui teras privacidade e ótimas companhias, 
+							num ambiente que vai dar o que falar.
+					    </h5>
 						</p>
 					</div>
 				</div>
@@ -42,12 +46,12 @@ include("include_produto/header.php");
 							Nosso objectivo
 						</h3>
 					-->
-						<p class="stext-113 cl6 p-b-26" style="text-align: justify;">
+						<p class="stext-113 cl6 p-b-26" style="text-align: left;">
 							<h5>
-								Para você que busca requinte e entretenimento de alto nivel nas noites de luanda <br>
-								Encontrou o lugar perfeito <br>
-								Da gastronomia ao entretenimentio adulto, você encontra exatamente o que busca, basta saber onde procura. O local é o Kamma Klub
-								<br><br> <br>
+								  Para você que busca requinte e entretenimento de alto nivel nas noites de luanda <br>
+								  Encontrou o lugar perfeito <br>
+								  Da gastronomia ao entretenimentio adulto, você encontra exatamente o que busca, basta saber onde procura. O local é o Kamma Klub
+								<br><br>
 								À casa oferece show, um espaço de entretenimento e pura diversão, despedidas de solteiros, whisky e charutos, 
 								restaurante de alto padrão e um clima cosmopolita e sensual característico do ambiente    
 							</h5>

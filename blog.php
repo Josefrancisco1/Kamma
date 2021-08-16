@@ -130,7 +130,7 @@ include("include_produto/header.php");
 
 						<div class="p-t-65">
 							<h4 class="mtext-112 cl2 p-b-33">
-								Productos extras
+								Serviços extras
 							</h4>
 
 							<ul>
@@ -277,33 +277,7 @@ include("include_produto/header.php");
 							</ul>
 						</div>
 
-						<div class="p-t-50">
-							<h4 class="mtext-112 cl2 p-b-27">
-								Tags
-							</h4>
-
-							<div class="flex-w m-r--5">
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									Instagram
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									facebook
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									whatsapp
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									linkdin
-								</a>
-
-								<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
-									snap
-								</a>
-							</div>
-						</div>
+						
 					</div>
 				</div>
 			</div>
