@@ -73,6 +73,9 @@
 							<li>
 								<a href="contact.php" style="color: orange;">CONTACTO</a>
 							</li>
+							<li>
+								<a href="atracao.php" style="color: orange;">ATRAÇÕES</a>
+							</li>
 						</ul>
 					</div>	
 
@@ -139,6 +142,9 @@
 
 				<li>
 					<a href="contact.php">CONTACTO</a>
+				</li>
+				<li>
+					<a href="atracao.php">ATRAÇÕES</a>
 				</li>
 			</ul>
 		</div>
